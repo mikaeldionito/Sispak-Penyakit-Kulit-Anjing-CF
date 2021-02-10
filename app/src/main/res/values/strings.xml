@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sistem Pakar Penyakit Kulit Anjing</string>
+    <string name="penyakit_1">Scabies</string>
+    <string name="penyakit_2">Penyakit Kulit disebabkan oleh Caplak</string>
+    <string name="penyakit_3">Seborrhea</string>
+    <string name="penyakit_4">Infeksi Jamur Tinea (Ringworm)</string>
+    <string name="penyakit_5">Alergi Dermatitis</string>
+    <string name="penyakit_6">Folukulitis</string>
+    <string name="mulai_konsul">Mulai Konsultasi</string>
+    <string name="login_admin">Login Admin</string>
+    <string name="logout">Logout</string>
+    <string name="data_user">Data Anjing</string>
+    <string name="label_nama">Nama Anjing Peliharaan</string>
+    <string name="label_usia">Usia</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="label_submit_diagnosa">Submit Diagnosa</string>
+    <string name="info_penyakit">Info Penyakit</string>
+    <string name="solusi_penyakit">Solusi Penyakit</string>
+
+    <string-array name="list_penyakit">
+        <item>Pilih penyakit</item>
+    </string-array>
+
+    <string-array name="list_gejala">
+        <item>Pilih gejala</item>
+    </string-array>
+</resources>
